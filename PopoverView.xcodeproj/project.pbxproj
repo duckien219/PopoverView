@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		071AC0F51EE7A7C800A0A341 /* PopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071AC0F41EE7A7C800A0A341 /* PopViewController.swift */; };
+		075496841EE6515700FCE26B /* angry.png in Resources */ = {isa = PBXBuildFile; fileRef = 0754967B1EE6515700FCE26B /* angry.png */; };
+		075496851EE6515700FCE26B /* comment.png in Resources */ = {isa = PBXBuildFile; fileRef = 0754967C1EE6515700FCE26B /* comment.png */; };
+		075496861EE6515700FCE26B /* greyLike.png in Resources */ = {isa = PBXBuildFile; fileRef = 0754967D1EE6515700FCE26B /* greyLike.png */; };
+		075496871EE6515700FCE26B /* haha.png in Resources */ = {isa = PBXBuildFile; fileRef = 0754967E1EE6515700FCE26B /* haha.png */; };
+		075496881EE6515700FCE26B /* like.png in Resources */ = {isa = PBXBuildFile; fileRef = 0754967F1EE6515700FCE26B /* like.png */; };
+		075496891EE6515700FCE26B /* love.png in Resources */ = {isa = PBXBuildFile; fileRef = 075496801EE6515700FCE26B /* love.png */; };
+		0754968A1EE6515700FCE26B /* sad.png in Resources */ = {isa = PBXBuildFile; fileRef = 075496811EE6515700FCE26B /* sad.png */; };
+		0754968B1EE6515700FCE26B /* share.png in Resources */ = {isa = PBXBuildFile; fileRef = 075496821EE6515700FCE26B /* share.png */; };
+		0754968C1EE6515700FCE26B /* wow.png in Resources */ = {isa = PBXBuildFile; fileRef = 075496831EE6515700FCE26B /* wow.png */; };
+		07AA3AB21EE6939300AEDACB /* avatar1.png in Resources */ = {isa = PBXBuildFile; fileRef = 07AA3AB01EE6939300AEDACB /* avatar1.png */; };
+		07AA3AB31EE6939300AEDACB /* img.png in Resources */ = {isa = PBXBuildFile; fileRef = 07AA3AB11EE6939300AEDACB /* img.png */; };
+		07AA3AB51EE695E300AEDACB /* ava2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 07AA3AB41EE695E200AEDACB /* ava2.jpg */; };
 		07AD0E751EE510CF0019902F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07AD0E741EE510CF0019902F /* AppDelegate.swift */; };
 		07AD0E771EE510CF0019902F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07AD0E761EE510CF0019902F /* ViewController.swift */; };
 		07AD0E7A1EE510CF0019902F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07AD0E781EE510CF0019902F /* Main.storyboard */; };
@@ -15,6 +28,19 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		071AC0F41EE7A7C800A0A341 /* PopViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopViewController.swift; sourceTree = "<group>"; };
+		0754967B1EE6515700FCE26B /* angry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = angry.png; sourceTree = "<group>"; };
+		0754967C1EE6515700FCE26B /* comment.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = comment.png; sourceTree = "<group>"; };
+		0754967D1EE6515700FCE26B /* greyLike.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greyLike.png; sourceTree = "<group>"; };
+		0754967E1EE6515700FCE26B /* haha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = haha.png; sourceTree = "<group>"; };
+		0754967F1EE6515700FCE26B /* like.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = like.png; sourceTree = "<group>"; };
+		075496801EE6515700FCE26B /* love.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = love.png; sourceTree = "<group>"; };
+		075496811EE6515700FCE26B /* sad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sad.png; sourceTree = "<group>"; };
+		075496821EE6515700FCE26B /* share.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = share.png; sourceTree = "<group>"; };
+		075496831EE6515700FCE26B /* wow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wow.png; sourceTree = "<group>"; };
+		07AA3AB01EE6939300AEDACB /* avatar1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = avatar1.png; sourceTree = "<group>"; };
+		07AA3AB11EE6939300AEDACB /* img.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img.png; sourceTree = "<group>"; };
+		07AA3AB41EE695E200AEDACB /* ava2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ava2.jpg; sourceTree = "<group>"; };
 		07AD0E711EE510CF0019902F /* PopoverView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PopoverView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		07AD0E741EE510CF0019902F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		07AD0E761EE510CF0019902F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -35,6 +61,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0754967A1EE6510D00FCE26B /* source */ = {
+			isa = PBXGroup;
+			children = (
+				0754967B1EE6515700FCE26B /* angry.png */,
+				0754967C1EE6515700FCE26B /* comment.png */,
+				0754967D1EE6515700FCE26B /* greyLike.png */,
+				0754967E1EE6515700FCE26B /* haha.png */,
+				07AA3AB01EE6939300AEDACB /* avatar1.png */,
+				07AA3AB11EE6939300AEDACB /* img.png */,
+				0754967F1EE6515700FCE26B /* like.png */,
+				075496801EE6515700FCE26B /* love.png */,
+				07AA3AB41EE695E200AEDACB /* ava2.jpg */,
+				075496811EE6515700FCE26B /* sad.png */,
+				075496821EE6515700FCE26B /* share.png */,
+				075496831EE6515700FCE26B /* wow.png */,
+			);
+			name = source;
+			sourceTree = "<group>";
+		};
 		07AD0E681EE510CF0019902F = {
 			isa = PBXGroup;
 			children = (
@@ -54,12 +99,14 @@
 		07AD0E731EE510CF0019902F /* PopoverView */ = {
 			isa = PBXGroup;
 			children = (
+				0754967A1EE6510D00FCE26B /* source */,
 				07AD0E741EE510CF0019902F /* AppDelegate.swift */,
 				07AD0E761EE510CF0019902F /* ViewController.swift */,
 				07AD0E781EE510CF0019902F /* Main.storyboard */,
 				07AD0E7B1EE510CF0019902F /* Assets.xcassets */,
 				07AD0E7D1EE510CF0019902F /* LaunchScreen.storyboard */,
 				07AD0E801EE510CF0019902F /* Info.plist */,
+				071AC0F41EE7A7C800A0A341 /* PopViewController.swift */,
 			);
 			path = PopoverView;
 			sourceTree = "<group>";
@@ -124,8 +171,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				075496881EE6515700FCE26B /* like.png in Resources */,
+				07AA3AB21EE6939300AEDACB /* avatar1.png in Resources */,
 				07AD0E7F1EE510CF0019902F /* LaunchScreen.storyboard in Resources */,
+				0754968A1EE6515700FCE26B /* sad.png in Resources */,
+				0754968C1EE6515700FCE26B /* wow.png in Resources */,
+				075496891EE6515700FCE26B /* love.png in Resources */,
+				0754968B1EE6515700FCE26B /* share.png in Resources */,
+				075496841EE6515700FCE26B /* angry.png in Resources */,
+				07AA3AB51EE695E300AEDACB /* ava2.jpg in Resources */,
+				075496851EE6515700FCE26B /* comment.png in Resources */,
+				075496861EE6515700FCE26B /* greyLike.png in Resources */,
 				07AD0E7C1EE510CF0019902F /* Assets.xcassets in Resources */,
+				07AA3AB31EE6939300AEDACB /* img.png in Resources */,
+				075496871EE6515700FCE26B /* haha.png in Resources */,
 				07AD0E7A1EE510CF0019902F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -139,6 +198,7 @@
 			files = (
 				07AD0E771EE510CF0019902F /* ViewController.swift in Sources */,
 				07AD0E751EE510CF0019902F /* AppDelegate.swift in Sources */,
+				071AC0F51EE7A7C800A0A341 /* PopViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,6 +360,7 @@
 				07AD0E851EE510CF0019902F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
